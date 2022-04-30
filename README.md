@@ -14,7 +14,7 @@ A template for SAAS projects
 - Google/ Facebook Login
 - Landing Page / Marketing site
 
-## Hosting preferences
+## Hosting option
 
-- Netlify for Frontend
-- Firebase backend
+- Firebase hosting
+- Firebase functions
