@@ -1,2 +1,3 @@
-# sass-template
-A template for SASS projects
+# SAAS Template
+
+A template for SAAS projects
