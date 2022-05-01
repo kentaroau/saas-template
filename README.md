@@ -18,3 +18,5 @@ A template for SAAS projects
 
 - Firebase hosting
 - Firebase functions
+
+## Getting Started
